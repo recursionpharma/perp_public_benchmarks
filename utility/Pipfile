@@ -7,7 +7,7 @@ verify_ssl = true
 pymlconf = {version = ">=1.0.0,<2.0", index = "pypi"}
 google-api-python-client = {version = ">=1.7.6,<2", index = "pypi"}
 hvac = {version = ">=0.7", index = "pypi"}
-pyyaml = {version = ">=3.13,<4", index = "pypi"}
+pyyaml = {version = ">=4.2b1", index = "pypi"}
 structlog = {version = ">=18.1,<19", index = "pypi"}
 
 [dev-packages]
