@@ -1,0 +1,10 @@
+name: test
+dependencies:
+  - python>=3.6,<4
+  - pip
+  - pip:
+      - pymlconf>=1.0.0,<2.0
+      - google-api-python-client>=1.7.6,<2
+      - hvac>=0.7
+      - pyyaml>=3.13,<4
+      - structlog>=18.1,<19
