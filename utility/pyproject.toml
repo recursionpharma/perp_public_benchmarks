@@ -12,7 +12,3 @@ google-api-python-client = ">=1.7.6,<2"
 hvac = ">=0.7"
 pyyaml = ">=4.2b1"
 structlog = ">=18.1,<19"
-
-[[tool.poetry.source]]
-name = "pypi"
-url = "https://pypi.org/simple/"
