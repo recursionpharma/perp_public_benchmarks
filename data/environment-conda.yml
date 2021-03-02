@@ -1,6 +1,7 @@
-name: root
+name: test
 channels:
-- defaults
+  - conda-forge
+  - defaults
 dependencies:
   - alembic==1.0.0
   - alembic-autogenerate-enums==0.0.2
