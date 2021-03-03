@@ -37,7 +37,7 @@ dependencies:
     - notebook==5.7.8
     - numpy==1.16.4
     - pandas<1,>=0.22.0
-    - prometheus-client==0.7.1
+    - prometheus-client==0.6.0
     - psycopg2==2.7.6.1
     - pyarrow<1,>=0.15.1
     - pytest==5.0.1
