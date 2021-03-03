@@ -71,5 +71,5 @@ dependencies:
   - wrapt<1.13,>=1.12.1
   - xlwt==1.3.0
   - zarr==2.2.0
-  - python-graphviz==0.9
+  - python-graphviz==0.8.4
   - python-pdfkit==0.6.1
