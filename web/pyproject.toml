@@ -4,7 +4,6 @@ name = "root"
 version = "0.0.0"
 
 [tool.poetry.dependencies]
-python = ">=3.6"
 alembic = "==1.0.10"
 apispec = "<2,>=1"
 blinker = "==1.4"
