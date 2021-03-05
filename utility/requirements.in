@@ -1,4 +1,3 @@
---extra-index-url https://pypi.rxrx.io/simple
 google-api-python-client<2,>=1.7.6
 hvac>=0.7
 pymlconf<2.0,>=1.0.0
