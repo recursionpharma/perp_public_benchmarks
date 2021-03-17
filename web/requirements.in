@@ -41,7 +41,7 @@ flake8==3.7.7
 flake8-print==3.1.0
 hypothesis==4.23.9
 isort==4.3.21
-mypy==0.701
+mypy>=0.701
 notebook==5.7.8
 pytest==5.0.1
 pytest-cov==2.7.1
