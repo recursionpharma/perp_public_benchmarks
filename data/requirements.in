@@ -1,6 +1,5 @@
 bokeh==1.4.0
 boto3>=1,<2
-botocore<1.19 # pinned due to this bug: https://github.com/boto/botocore/issues/2187
 fastavro
 future==0.16.0
 ipykernel==4.8.2
