@@ -35,7 +35,6 @@ toolz>=0.8.2,<0.10
 typed-ast>=1.4.2
 webargs==5.5.3
 werkzeug==0.16.1
-xgboost==0.90
 flake8==3.7.7
 flake8-print==3.1.0
 hypothesis==4.23.9

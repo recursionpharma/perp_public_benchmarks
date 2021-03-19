@@ -54,7 +54,6 @@ typed-ast = ">=1.4.2"
 webargs = "==5.5.3"
 werkzeug = "==0.16.1"
 wrapt = "<1.13,>=1.12.1"
-xgboost = "==0.90"
 yapf = "==0.28.0"
 
 [dev-packages]
