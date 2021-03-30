@@ -1,9 +1,9 @@
 [tool]
 [tool.poetry]
 name = "test"
-description = "test poetry for public benchmark"
+description = ""
 authors = ["Recursion"]
-version = "0.0.1"
+version = "0.0.0"
 
 [tool.poetry.dependencies]
 python = "*"
