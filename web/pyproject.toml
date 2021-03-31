@@ -6,6 +6,7 @@ authors = ["Recursion"]
 version = "0.0.0"
 
 [tool.poetry.dependencies]
+python = "*"
 alembic = "==1.0.10"
 apispec = "<2,>=1"
 blinker = "==1.4"
