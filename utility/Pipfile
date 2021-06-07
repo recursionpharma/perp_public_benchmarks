@@ -11,3 +11,6 @@ pyyaml = {version = ">=4.2b1", index = "pypi"}
 structlog = {version = ">=18.1,<19", index = "pypi"}
 
 [dev-packages]
+
+[requires]
+python_version = "3.6"

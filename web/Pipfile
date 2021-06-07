@@ -56,3 +56,6 @@ wrapt = "<1.13,>=1.12.1"
 yapf = "==0.28.0"
 
 [dev-packages]
+
+[requires]
+python_version = "3.6"
