@@ -3,7 +3,7 @@
 name = "test"
 description = ""
 authors = ["Recursion"]
-description = ""
+version = "0.0.0"
 
 [tool.poetry.dependencies]
 python = "*"
