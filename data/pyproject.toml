@@ -9,14 +9,9 @@ version = "0.0.0"
 python = "*"
 alembic = ">=1.0.0"
 attrdict = "*"
-<<<<<<< Updated upstream
-attrs = "==19.3.0"
-backoff = "==1.6.0"
-=======
 attrs = ">=19.3.0"
 awscli = "*"
 backoff = ">=1.6.0"
->>>>>>> Stashed changes
 bokeh = ">=1.4.0"
 boltons = "<18.1,>=18.0.1"
 bulwark = "*"
