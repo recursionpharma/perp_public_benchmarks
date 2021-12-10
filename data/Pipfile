@@ -7,7 +7,6 @@ verify_ssl = true
 alembic = ">=1.0.0"
 attrdict = "*"
 attrs = ">=19.3.0"
-awscli = "*"
 backoff = ">=1.6.0"
 bokeh = ">=1.4.0"
 boltons = ">=18.0.1"
