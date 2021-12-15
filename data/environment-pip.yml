@@ -1,6 +1,6 @@
-name: test-pip-data-py38
+name: test
 dependencies:
-  - python=3.8.11
+  - python>=3.6
   - pip
   - pip:
       - alembic>=1.0.0
@@ -10,7 +10,7 @@ dependencies:
       - bokeh>=1.4.0
       - boltons>=18.0.1
       - bulwark
-      - cachetools<4
+      - cachetools
       - cloudpickle>=1.6
       - dask[bag]>=0.15.2
       - deprecated
@@ -18,13 +18,13 @@ dependencies:
       - fastavro
       - frozendict>=1.2
       - future>=0.16.0
-      - gcsfs<1,>=0.2
-      - google-api-core>=1.22.2
-      - google-api-python-client>=1.7.6,<2
-      - google-auth>=1.16.0
-      - google-cloud-bigquery>=0.31.0
-      - google-cloud-core>=1.4.1
-      - google-cloud-storage>=1.13.0,<2
+      - gcsfs
+      - google-api-core
+      - google-api-python-client
+      - google-auth
+      - google-cloud-bigquery
+      - google-cloud-core
+      - google-cloud-storage
       - graphviz>=0.8.4
       - holoviews>=1.13.2
       - hvac>=0.10
@@ -40,7 +40,7 @@ dependencies:
       - numcodecs>=0.6.2
       - numpy>=1.18.1
       - openpyxl>=2.5.8
-      - pandas<1,>=0.22.0
+      - pandas>=1.0,<2
       - pdfkit>=0.6.1
       - pillow>=5
       - pint>=0.9
@@ -48,7 +48,7 @@ dependencies:
       - prefect>=0.13.0
       - pscript>=0.7.1
       - psycopg2-binary>=2.7
-      - pyarrow<1,>=0.10
+      - pyarrow>=0.10
       - python-box>=3.2.4
       - requests
       - scikit-image>=0.18
