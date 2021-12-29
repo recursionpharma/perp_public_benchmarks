@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python>=3.6
   - pip
   - pip:
     - alembic>=1.0.10
@@ -36,7 +35,7 @@ dependencies:
     - numpy>=1.16.4
     - pandas<1,>=0.22.0
     - prometheus-client>=0.6.0
-    - pyarrow<1,>=0.15.1
+    - pyarrow>=2
     - pytest>=5.0.1
     - pytest-cov>=2.7.1
     - pytest-describe>=0.12.0
