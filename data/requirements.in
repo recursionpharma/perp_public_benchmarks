@@ -7,7 +7,7 @@ boltons>=18.0.1
 bulwark
 cachetools
 cloudpickle>=1.6
-dask[bag]>=0.15.2
+dask[bag]>=2021.10.0
 deprecated
 docopt>=0.6.2
 fastavro
